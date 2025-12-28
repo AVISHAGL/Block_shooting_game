@@ -51,13 +51,9 @@ ant run
 
 Below are example screenshots of the game during runtime.
 
-### Game Start
-![Game Start](screenshots/1.png)
+<img src="screenshots/1.png" width="700"/>
+<img src="screenshots/2.png" width="700"/>
+<img src="screenshots/3.png" width="700"/>
 
-### Gameplay
-![Gameplay](screenshots/2.png)
-
-### Score Display
-![Score Display](screenshots/3.png)
 
 
