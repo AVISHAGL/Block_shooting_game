@@ -45,7 +45,7 @@ The player aims to destroy all blocks by bouncing the ball using the paddle whil
 The project uses **Apache Ant** for compilation and execution.
 
 ```bash
-ant run
+ant run```
 
 ## 📸 Screenshots
 
