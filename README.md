@@ -47,3 +47,12 @@ The project uses **Apache Ant** for compilation and execution.
 ```bash
 ant run
 
+## 📸 Screenshots
+
+Below are example screenshots of the game during runtime.
+<img width="1203" height="946" alt="צילום מסך 2025-12-28 232849" src="https://github.com/user-attachments/assets/2bd2aecd-5a07-422b-9fb0-d4dd5db5e32b" />
+<img width="1199" height="945" alt="צילום מסך 2025-12-28 233033" src="https://github.com/user-attachments/assets/6a29e431-60d8-4bd7-ae6a-711d4ce944b5" />
+<img width="1223" height="945" alt="צילום מסך 2025-12-28 233222" src="https://github.com/user-attachments/assets/a608d1b3-0519-4bd8-baf8-dc519172e405" />
+
+<img width="1223" height="945" alt="image" src="https://github.com/user-attachments/assets/9e147ea3-a1ba-4ff4-84af-58d46023174e" />
+
